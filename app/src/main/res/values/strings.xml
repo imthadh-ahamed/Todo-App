@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Todo-App</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="todayTask">Today\'s Task</string>
+    <string name="searchHint">Enter search title</string>
+    <string name="addTask">Add Task</string>
+    <string name="newTask">New Task</string>
+    <string name="taskTitleHint">Enter The Task Title</string>
+    <string name="taskDesHint">Enter The Task Description</string>
+    <string name="saveTask">Save Task</string>
+    <string name="loading">Loading</string>
+    <string name="updateTask">Update Task</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+</resources>

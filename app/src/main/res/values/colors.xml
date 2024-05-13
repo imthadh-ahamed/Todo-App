@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mainBackgroundColor">#0d555c</color>
+    <color name="btn_background">#56b0b9</color>
+    <color name="taskBack">#b7d0da</color>
+</resources>
