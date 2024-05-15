@@ -84,7 +84,7 @@
                     android:id="@+id/edSearch"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/white"
+                    android:background="@color/lightGrey"
                     android:hint="@string/searchHint"
                     android:imeOptions="actionSearch"
                     android:inputType="text" />

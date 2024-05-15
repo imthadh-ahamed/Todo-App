@@ -5,4 +5,6 @@
     <color name="mainBackgroundColor">#0d555c</color>
     <color name="btn_background">#56b0b9</color>
     <color name="taskBack">#b7d0da</color>
+    <color name="lightGrey">#C0C0C0</color>
+    <color name="inputBack">#EAE4E8</color>
 </resources>

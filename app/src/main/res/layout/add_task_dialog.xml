@@ -55,7 +55,7 @@
                     android:id="@+id/edTaskTitle"
                     android:layout_width="match_parent"
                     android:layout_height="?actionBarSize"
-                    android:background="#EAE4E8"
+                    android:background="@color/inputBack"
                     android:inputType="text" />
 
             </com.google.android.material.textfield.TextInputLayout>
@@ -71,7 +71,7 @@
                     android:id="@+id/edTaskDesc"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="#EAE4E8"
+                    android:background="@color/inputBack"
                     android:gravity="top|start"
                     android:inputType="textMultiLine"
                     android:lines="5"
